@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<caspoc>
+ <format>2017</format>
+ <header>
+  <version>2017</version>
+  <release>3</release>
+  <id>4450870</id>
+  <numberofnodes/>
+  <numberofcomponents/>
+  <creationtime/>
+  <lastchange/>
+ </header>
+ <projectdata>
+  <title></title>  <author></author>  <projectid></projectid>  <remarks></remarks>  <datecreated></datecreated>  <signedcreated></signedcreated>  <datechanged></datechanged>  <signedchanged></signedchanged> </projectdata>
+ <caspoc>
+ <csi>
+NODES Version 2017 Release 3
+CBD 1 SI 0 X 290 Y 380  LCU A CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2900380
+CBD 1 SI 0 X 290 Y 400  LCU B CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2900400
+CBD 0 SI 0 X 350 Y 380  LCU  CSI_End_LCU LCVSI _INTERNALNODE_1 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3500380
+CBD 0 SI 0 X 280 Y 120  LCU VO\V21 CSI_End_LCU LCVSI _INTERNALNODE_4 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2800120\V21
+CBD 0 SI 0 X 360 Y 120 EXPORTDIRECTION EXPORTDIRECTIONRIGHT LCU V\V21 CSI_End_LCU LCVSI _INTERNALNODE_1 CSI_End_LCVSI Remark Measured Voltage CSI_End_Remark LVSI 3600120\V21
+CBD 0 SI 0 X 280 Y 170  LCU MPAR1\V21 CSI_End_LCU LCVSI _INTERNALNODE_2 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2800170\V21
+CBD 1 SI 0 X 100 Y 150 EXPORTDIRECTION EXPORTDIRECTIONLEFT LCU B\V21 CSI_End_LCU LCVSI B CSI_End_LCVSI Remark negative terminal, connect to the electrical circuit CSI_End_Remark LVSI 1000150\V21
+CBD 1 SI 0 X 100 Y 120 EXPORTDIRECTION EXPORTDIRECTIONLEFT LCU A\V21 CSI_End_LCU LCVSI A CSI_End_LCVSI Remark positive terminal, connect to the electrical circuit CSI_End_Remark LVSI 1000120\V21
+CBD 0 SI 0 X 200 Y 170  LCU  CSI_End_LCU LCVSI _INTERNALNODE_5 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2000170\V21
+CBD 0 SI 0 X 280 Y 140  LCU  CSI_End_LCU LCVSI _INTERNALNODE_2 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2800140\V21
+CBD 1 SI 0 X 140 Y 120  LCU  CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1400120\V21
+CBD 1 SI 0 X 140 Y 150  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1400150\V21
+CBD 1 SI 0 X 730 Y 340  LCU B CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 7300340
+CBD 1 SI 0 X 830 Y 340  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 8300340
+CBD 1 SI 0 X 730 Y 320  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 7300320
+CBD 1 SI 0 X 730 Y 260  LCU  CSI_End_LCU LCVSI _INTERNALNODE_6 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 7300260
+CBD 0 SI 0 X 240 Y 260  LCU  CSI_End_LCU LCVSI _INTERNALNODE_7 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2400260
+CBD 0 SI 0 X 160 Y 400  LCU 0.5012 CSI_End_LCU LCVSI 0.5012 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1600400
+CBD 0 SI 0 X 240 Y 400  LCU  CSI_End_LCU LCVSI _INTERNALNODE_7 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2400400
+CBD 0 SI 0 X 200 Y 440  LCU 80k CSI_End_LCU LCVSI 80K CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2000440
+CBD 0 SI 0 X 210 Y 70 EXPORTDIRECTION EXPORTDIRECTIONRIGHT LCU Y\PWM1 CSI_End_LCU LCVSI _INTERNALNODE_7 CSI_End_LCVSI Remark Output CSI_End_Remark LVSI 2100070\PWM1
+CBD 0 SI 0 X 130 Y 70  LCU TIME1\PWM1 CSI_End_LCU LCVSI _INTERNALNODE_8 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1300070\PWM1
+CBD 0 SI 0 X 130 Y 130 EXPORTDIRECTION EXPORTDIRECTIONBOTTOM LCU F\PWM1 CSI_End_LCU LCVSI 80K CSI_End_LCVSI Remark Frequency CSI_End_Remark LVSI 1300130\PWM1
+CBD 0 SI 0 X 130 Y 170 EXPORTDIRECTION EXPORTDIRECTIONLEFT LCU D\PWM1 CSI_End_LCU LCVSI 0.5012 CSI_End_LCVSI Remark duty cycle CSI_End_Remark LVSI 1300170\PWM1
+CBD 0 SI 0 X 130 Y 110  LCU 0.5\PWM1 CSI_End_LCU LCVSI 0.5 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1300110\PWM1
+CBD 0 SI 0 X 130 Y 90  LCU 0.5\PWM1 CSI_End_LCU LCVSI 0.5 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1300090\PWM1
+CBD 0 SI 0 X 130 Y 150  LCU 0\PWM1 CSI_End_LCU LCVSI 0 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1300150\PWM1
+CBD 1 SI 0 X 110 Y 220  LCU  CSI_End_LCU LCVSI _INTERNALNODE_3 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1100220
+CBD 1 SI 0 X 110 Y 280  LCU Ground CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1100280
+CBD 1 SI 0 X 180 Y 200  LCU  CSI_End_LCU LCVSI _INTERNALNODE_3 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1800200
+CBD 1 SI 0 X 240 Y 200  LCU  CSI_End_LCU LCVSI _INTERNALNODE_9 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2400200
+CBD 1 SI 0 X 350 Y 200  LCU  CSI_End_LCU LCVSI _INTERNALNODE_9 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3500200
+CBD 1 SI 0 X 410 Y 200  LCU  CSI_End_LCU LCVSI C CSI_End_LCVSI Remark  CSI_End_Remark LVSI 4100200
+CBD 1 SI 0 X 300 Y 230  LCU  CSI_End_LCU LCVSI _INTERNALNODE_9 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3000230
+CBD 1 SI 0 X 300 Y 290  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3000290
+CBD 0 SI 0 X 280 Y 260  LCU  CSI_End_LCU LCVSI _INTERNALNODE_7 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 2800260
+CBD 1 SI 0 X 490 Y 200  LCU C CSI_End_LCU LCVSI C CSI_End_LCVSI Remark  CSI_End_Remark LVSI 4900200
+CBD 1 SI 0 X 550 Y 200  LCU  CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 5500200
+CBD 1 SI 0 X 550 Y 260  LCU  CSI_End_LCU LCVSI D CSI_End_LCVSI Remark  CSI_End_Remark LVSI 5500260
+CBD 1 SI 0 X 490 Y 260  LCU  CSI_End_LCU LCVSI C CSI_End_LCVSI Remark  CSI_End_Remark LVSI 4900260
+CBD 1 SI 0 X 640 Y 340  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 6400340
+CBD 1 SI 0 X 640 Y 280  LCU  CSI_End_LCU LCVSI D CSI_End_LCVSI Remark  CSI_End_Remark LVSI 6400280
+CBD 1 SI 0 X 640 Y 260  LCU D CSI_End_LCU LCVSI D CSI_End_LCVSI Remark  CSI_End_Remark LVSI 6400260
+CBD 1 SI 0 X 640 Y 200  LCU  CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 6400200
+CBD 1 SI 0 X 830 Y 220  LCU  CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 8300220
+CBD 1 SI 0 X 830 Y 280  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 8300280
+CBD 1 SI 0 X 110 Y 200  LCU  CSI_End_LCU LCVSI _INTERNALNODE_3 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1100200
+CBD 1 SI 0 X 730 Y 200  LCU A CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 7300200
+CBD 1 SI 0 X 830 Y 200  LCU  CSI_End_LCU LCVSI A CSI_End_LCVSI Remark  CSI_End_Remark LVSI 8300200
+CBD 1 SI 0 X 110 Y 340  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 1100340
+CBD 1 SI 0 X 640 Y 270  LCU  CSI_End_LCU LCVSI D CSI_End_LCVSI Remark  CSI_End_Remark LVSI 6400270
+CBD 1 SI 0 X 490 Y 210  LCU  CSI_End_LCU LCVSI C CSI_End_LCVSI Remark  CSI_End_Remark LVSI 4900210
+CBD 1 SI 0 X 300 Y 340  LCU  CSI_End_LCU LCVSI B CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3000340
+CBD 1 SI 0 X 300 Y 200  LCU  CSI_End_LCU LCVSI _INTERNALNODE_9 CSI_End_LCVSI Remark  CSI_End_Remark LVSI 3000200
+VERBINDING
+Node1 2900380 CSI_End_Node1 Node2 1000120\V21 CSI_End_Node2 Node3 1000120\V21 CSI_End_Node3 Color 0
+Node1 2900400 CSI_End_Node1 Node2 1000150\V21 CSI_End_Node2 Node3 1000150\V21 CSI_End_Node3 Color 0
+Node1 3500380 CSI_End_Node1 Node2 3600120\V21 CSI_End_Node2 Node3 3600120\V21 CSI_End_Node3 Color 0
+Node1 2800140\V21 CSI_End_Node1 Node2 2800170\V21 CSI_End_Node2 Node3 2800170\V21 CSI_End_Node3 Color 0
+Node1 1400120\V21 CSI_End_Node1 Node2 1000120\V21 CSI_End_Node2 Node3 1000120\V21 CSI_End_Node3 Color 0
+Node1 1400150\V21 CSI_End_Node1 Node2 1000150\V21 CSI_End_Node2 Node3 1000150\V21 CSI_End_Node3 Color 0
+Node1 6400340 CSI_End_Node1 Node2 7300340 CSI_End_Node2 Node3 7300340 CSI_End_Node3 Color 0
+Node1 7300320 CSI_End_Node1 Node2 7300340 CSI_End_Node2 Node3 7300340 CSI_End_Node3 Color 0
+Node1 7300340 CSI_End_Node1 Node2 8300280 CSI_End_Node2 Node3 8300340 CSI_End_Node3 Color 0
+Node1 6400200 CSI_End_Node1 Node2 7300200 CSI_End_Node2 Node3 7300200 CSI_End_Node3 Color 0
+Node1 2400400 CSI_End_Node1 Node2 2800260 CSI_End_Node2 Node3 2400260 CSI_End_Node3 Color 0
+Node1 1600400 CSI_End_Node1 Node2 1300170\PWM1 CSI_End_Node2 Node3 1300170\PWM1 CSI_End_Node3 Color 0
+Node1 2400400 CSI_End_Node1 Node2 2100070\PWM1 CSI_End_Node2 Node3 2100070\PWM1 CSI_End_Node3 Color 0
+Node1 2000440 CSI_End_Node1 Node2 1300130\PWM1 CSI_End_Node2 Node3 1300130\PWM1 CSI_End_Node3 Color 0
+Node1 1100220 CSI_End_Node1 Node2 1800200 CSI_End_Node2 Node3 1100200 CSI_End_Node3 Color 0
+Node1 3000200 CSI_End_Node1 Node2 3500200 CSI_End_Node2 Node3 3500200 CSI_End_Node3 Color 0
+Node1 4100200 CSI_End_Node1 Node2 4900200 CSI_End_Node2 Node3 4900200 CSI_End_Node3 Color 0
+Node1 5500200 CSI_End_Node1 Node2 6400200 CSI_End_Node2 Node3 6400200 CSI_End_Node3 Color 0
+Node1 7300200 CSI_End_Node1 Node2 8300220 CSI_End_Node2 Node3 8300200 CSI_End_Node3 Color 0
+Node1 6400270 CSI_End_Node1 Node2 6400280 CSI_End_Node2 Node3 6400280 CSI_End_Node3 Color 0
+Node1 3000340 CSI_End_Node1 Node2 1100280 CSI_End_Node2 Node3 1100340 CSI_End_Node3 Color 0
+Node1 5500260 CSI_End_Node1 Node2 6400270 CSI_End_Node2 Node3 6400260 CSI_End_Node3 Color 0
+Node1 4900260 CSI_End_Node1 Node2 4900210 CSI_End_Node2 Node3 4900210 CSI_End_Node3 Color 0
+Node1 4900200 CSI_End_Node1 Node2 4900210 CSI_End_Node2 Node3 4900210 CSI_End_Node3 Color 0
+Node1 3000290 CSI_End_Node1 Node2 3000340 CSI_End_Node2 Node3 3000340 CSI_End_Node3 Color 0
+Node1 6400340 CSI_End_Node1 Node2 3000340 CSI_End_Node2 Node3 3000340 CSI_End_Node3 Color 0
+Node1 3000230 CSI_End_Node1 Node2 3000200 CSI_End_Node2 Node3 3000200 CSI_End_Node3 Color 0
+Node1 2400200 CSI_End_Node1 Node2 3000200 CSI_End_Node2 Node3 3000200 CSI_End_Node3 Color 0
+COMPONENT
+CBD 0 SI 0 Type SCOPE Name SCOPE6 Value 1 CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 2 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 910 y1 220 x2 950 y2 220 x3 910 y3 260 x4 950 y4 260 Hoek 0 FlipHor 0 FlipVer 0 Xm 930 Ym 240 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type SCOPE Name SCOPE3 Value 1 CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 2 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 800 y1 380 x2 840 y2 380 x3 800 y3 420 x4 840 y4 420 Hoek 0 FlipHor 0 FlipVer 0 Xm 820 Ym 400 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type SCOPE Name SCOPE1 Value 1 CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 2 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 370 y1 360 x2 410 y2 360 x3 370 y3 400 x4 410 y4 400 Hoek 0 FlipHor 0 FlipVer 0 Xm 390 Ym 380 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type LIBRARY Name V21 Value 1 CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 N[1] 3500380 CSI_End_N[1] N[2] 2900400 CSI_End_N[2] N[3] 2900380 CSI_End_N[3] ACN 0 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template SENSOR\VOLTAGE\V2.LIB CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 310 y1 360 x2 350 y2 360 x3 310 y3 420 x4 350 y4 420 Hoek 0 FlipHor 0 FlipVer 0 Xm 330 Ym 380 Color 48 FrameColor 0 IsolatieColor 48 DisplayBitmap 1 DisplayEMF 0 DisplayLabels 0 DisplayVEC 0 DisplayBlockDisplay 1 CSI_Begin_Library 3500380 V\V21 3 20 0 2900400 B\V21 9 -40 20 2900380 A\V21 9 -40 0 CSI_End_Library NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type MPAR Name MPAR1\V21 Value 1  CSI_End_Value Node1 2800170\V21 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 N[1] 2000170\V21 CSI_End_N[1] ACN 0 ABDN 2 AP 1 MaxP 11 P[1] 1 CSI_End_P[1] Text 1 Text1 Gain CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark Gain of the sensor CSI_End_Remark ICBool 0 ICValue 0 x1 220 y1 150 x2 260 y2 150 x3 220 y3 190 x4 260 y4 190 Hoek 90 FlipHor 0 FlipVer 0 Xm 240 Ym 170 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type MUL Name V\V21 Value 1  CSI_End_Value Node1 3600120\V21 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 N[1] 2800120\V21 CSI_End_N[1] N[2] 2800140\V21 CSI_End_N[2] ACN 0 ABDN 3 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 300 y1 100 x2 340 y2 100 x3 300 y3 160 x4 340 y4 160 Hoek 90 FlipHor 0 FlipVer 0 Xm 320 Ym 120 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 extern CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type VOLTAGE Name VO\V21 Value 1  CSI_End_Value Node1 2800120\V21 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 1 AP 0 MaxP 11 Text 1 Text1 A\V21 CSI_End_Text1 Text2 B\V21 CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 220 y1 100 x2 260 y2 100 x3 220 y3 140 x4 260 y4 140 Hoek 90 FlipHor 0 FlipVer 0 Xm 240 Ym 120 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type R Name RC2 Value 15m  CSI_End_Value Node1 7300260 CSI_End_Node1 Node2 7300320 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 720 y1 280 x2 740 y2 280 x3 720 y3 300 x4 740 y4 300 Hoek 90 FlipHor 0 FlipVer 0 Xm 730 Ym 290 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type C Name C2 Value 35u  CSI_End_Value Node1 7300200 CSI_End_Node1 Node2 7300260 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 1 ICValue 0 x1 710 y1 210 x2 730 y2 210 x3 710 y3 230 x4 730 y4 230 Hoek 90 FlipHor 0 FlipVer 0 Xm 730 Ym 230 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type LIBRARY Name PWM1 Value 1  CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 N[1] 2000440 CSI_End_N[1] N[2] 2400400 CSI_End_N[2] N[3] 1600400 CSI_End_N[3] ACN 0 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template CONTROL\SMPS\PWM.LIB CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 180 y1 380 x2 220 y2 380 x3 180 y3 420 x4 220 y4 420 Hoek 0 FlipHor 0 FlipVer 0 Xm 200 Ym 400 Color 48 FrameColor 0 IsolatieColor 48 DisplayBitmap 1 DisplayEMF 0 DisplayLabels 0 DisplayVEC 0 DisplayBlockDisplay 1 CSI_Begin_Library 2000440 F\PWM1 6 0 40 2400400 Y\PWM1 3 40 0 1600400 D\PWM1 9 -40 0 CSI_End_Library NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type SIGNAL Name Y\PWM1 Value 1  CSI_End_Value Node1 2100070\PWM1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 N[1] 1300070\PWM1 CSI_End_N[1] N[2] 1300090\PWM1 CSI_End_N[2] N[3] 1300110\PWM1 CSI_End_N[3] N[4] 1300130\PWM1 CSI_End_N[4] N[5] 1300150\PWM1 CSI_End_N[5] N[6] 1300170\PWM1 CSI_End_N[6] ACN 0 ABDN 7 AP 3 MaxP 11 P[1] 0.000000 CSI_End_P[1] P[2] 0.000000 CSI_End_P[2] P[3] 1.000000 CSI_End_P[3] Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 150 y1 50 x2 190 y2 50 x3 150 y3 190 x4 190 y4 190 Hoek 270 FlipHor 0 FlipVer 0 Xm 170 Ym 70 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 extern CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type TIME Name TIME1\PWM1 Value 1  CSI_End_Value Node1 1300070\PWM1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 1 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 70 y1 50 x2 110 y2 50 x3 70 y3 90 x4 110 y4 90 Hoek 270 FlipHor 0 FlipVer 0 Xm 90 Ym 70 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type SCOPE Name SCOPE4 Value 1  CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 2 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 670 y1 70 x2 710 y2 70 x3 670 y3 110 x4 710 y4 110 Hoek 0 FlipHor 0 FlipVer 0 Xm 690 Ym 90 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 0 SI 0 Type SCOPE Name SCOPE2 Value 1  CSI_End_Value Node1 CSI_End_Node1 Node2 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 0 ABDN 2 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 340 y1 100 x2 380 y2 100 x3 340 y3 140 x4 380 y4 140 Hoek 270 FlipHor 0 FlipVer 0 Xm 360 Ym 120 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type L Name L2 Value 433u  CSI_End_Value Node1 4900200 CSI_End_Node1 Node2 5500200 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 1 ICValue 0 x1 500 y1 180 x2 520 y2 180 x3 500 y3 200 x4 520 y4 200 Hoek 180 FlipHor 0 FlipVer 0 Xm 520 Ym 200 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type V Name V1 Value 12  CSI_End_Value Node1 1100220 CSI_End_Node1 Node2 1100280 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 90 y1 230 x2 110 y2 230 x3 90 y3 250 x4 110 y4 250 Hoek 90 FlipHor 0 FlipVer 0 Xm 110 Ym 250 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type L Name L1 Value 322u  CSI_End_Value Node1 1800200 CSI_End_Node1 Node2 2400200 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 1 ICValue 0 x1 200 y1 190 x2 220 y2 190 x3 200 y3 210 x4 220 y4 210 Hoek 180 FlipHor 0 FlipVer 0 Xm 210 Ym 200 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type D Name D2 Value Diode  CSI_End_Value Node1 3500200 CSI_End_Node1 Node2 4100200 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 9 MaxP 11 P[0] PARAMETER CSI_End_P[0] P[1] 1u CSI_End_P[1] P[2] 100e6 CSI_End_P[2] P[3] 0.7 CSI_End_P[3] P[4] 0.7 CSI_End_P[4] P[5] 0 CSI_End_P[5] P[6] 1e6 CSI_End_P[6] P[7] 1 CSI_End_P[7] P[8] 1e-12 CSI_End_P[8] P[9] 2 CSI_End_P[9] Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 370 y1 190 x2 390 y2 190 x3 370 y3 210 x4 390 y4 210 Hoek 180 FlipHor 0 FlipVer 0 Xm 380 Ym 200 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type MOSFET Name DMOSFET1 Value MOSFET  CSI_End_Value Node1 3000230 CSI_End_Node1 Node2 3000290 CSI_End_Node2 Node3 2800260 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 1 AP 9 MaxP 11 P[0] PARAMETER CSI_End_P[0] P[1] 100m CSI_End_P[1] P[2] 100e6 CSI_End_P[2] P[3] 0 CSI_End_P[3] P[4] 0 CSI_End_P[4] P[5] 0 CSI_End_P[5] P[6] 1e6 CSI_End_P[6] P[7] 1 CSI_End_P[7] P[8] 1e-12 CSI_End_P[8] P[9] 2 CSI_End_P[9] Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 280 y1 240 x2 300 y2 240 x3 280 y3 260 x4 300 y4 260 Hoek 90 FlipHor 0 FlipVer 0 Xm 300 Ym 260 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 0 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type D Name D3 Value Diode  CSI_End_Value Node1 6400340 CSI_End_Node1 Node2 6400280 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 9 MaxP 11 P[0] PARAMETER CSI_End_P[0] P[1] 1u CSI_End_P[1] P[2] 100e6 CSI_End_P[2] P[3] 0.7 CSI_End_P[3] P[4] 0.7 CSI_End_P[4] P[5] 0 CSI_End_P[5] P[6] 1e6 CSI_End_P[6] P[7] 1 CSI_End_P[7] P[8] 1e-12 CSI_End_P[8] P[9] 2 CSI_End_P[9] Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 620 y1 290 x2 640 y2 290 x3 620 y3 310 x4 640 y4 310 Hoek 270 FlipHor 0 FlipVer 0 Xm 640 Ym 310 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type D Name D4 Value Diode  CSI_End_Value Node1 6400260 CSI_End_Node1 Node2 6400200 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 9 MaxP 11 P[0] PARAMETER CSI_End_P[0] P[1] 1u CSI_End_P[1] P[2] 100e6 CSI_End_P[2] P[3] 0.7 CSI_End_P[3] P[4] 0.7 CSI_End_P[4] P[5] 0 CSI_End_P[5] P[6] 1e6 CSI_End_P[6] P[7] 1 CSI_End_P[7] P[8] 1e-12 CSI_End_P[8] P[9] 2 CSI_End_P[9] Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 620 y1 210 x2 640 y2 210 x3 620 y3 230 x4 640 y4 230 Hoek 270 FlipHor 0 FlipVer 0 Xm 640 Ym 230 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type R Name R Value 15  CSI_End_Value Node1 8300220 CSI_End_Node1 Node2 8300280 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 0 ICValue 0 x1 820 y1 240 x2 840 y2 240 x3 820 y3 260 x4 840 y4 260 Hoek 90 FlipHor 0 FlipVer 0 Xm 830 Ym 250 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+CBD 1 SI 0 Type C Name C1 Value 6u  CSI_End_Value Node1 4900260 CSI_End_Node1 Node2 5500260 CSI_End_Node2 Node3 CSI_End_Node3 Node4 CSI_End_Node4 ACN 2 ABDN 0 AP 0 MaxP 11 Text 0 Text1  CSI_End_Text1 Text2  CSI_End_Text2 Template  CSI_End_Template Remark  CSI_End_Remark ICBool 1 ICValue 0 x1 500 y1 240 x2 520 y2 240 x3 500 y3 260 x4 520 y4 260 Hoek 180 FlipHor 0 FlipVer 0 Xm 520 Ym 260 Color 46 FrameColor 0 IsolatieColor 48 DisplayBitmap 0 DisplayEMF 0 DisplayLabels 1 DisplayVEC 0 DisplayBlockDisplay 1 NotExported 0 EmbeddedCType1 static CSI_End_EmbeddedCType1 EmbeddedCType2 double CSI_End_EmbeddedCType2 TypeCast 0 
+COMMANDS
+ * Default Command Netlist
+ * (c) Simulation Research 2017
+ *
+ * Default models
+ .Model Diode Dswitch
+ .Model SCR SCR
+ .Model GTO GTO
+ .Model MOSFET MOSFET
+ .Model IGBT IGBT
+ .Model ZENER Dswitch BV=10
+ .Model SCHOTTKY Dswitch 
+ .Model TRIAC TRIAC
+ .Model DIAC DIAC
+ 
+ * End of the default commands
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+END
+SCOPE
+Name SCOPE2 AantalIngangen 1 cc[1] 65535 cc[2] 255 cc[3] 16776960 cc[4] 65280 cc[5] 16711935 cc[6] 16777215 cc[7] 16711680 cc[8] 12632256 cc[9] 32896 cc[10] 128 cc[11] 8421376 cc[12] 32768 cc[13] 8388736 cc[14] 8421504 cc[15] 0 cc[16] 8388608 cc[17] 65535 cc[18] 255 cc[19] 16776960 cc[20] 65280 TraceScale[1] 0 TraceScale[2] 0 TraceScale[3] 0 TraceScale[4] 0 TraceScale[5] 0 TraceScale[6] 0 TraceScale[7] 0 TraceScale[8] 0 TraceScale[9] 0 TraceScale[10] 0 TraceScale[11] 0 TraceScale[12] 0 TraceScale[13] 0 TraceScale[14] 0 TraceScale[15] 0 TraceScale[16] 0 TraceScale[17] 0 TraceScale[18] 0 TraceScale[19] 0 TraceScale[20] 0 LinesPointsArrows[1] 0 LinesPointsArrows[2] 0 LinesPointsArrows[3] 0 LinesPointsArrows[4] 0 LinesPointsArrows[5] 0 LinesPointsArrows[6] 0 LinesPointsArrows[7] 0 LinesPointsArrows[8] 0 LinesPointsArrows[9] 0 LinesPointsArrows[10] 0 LinesPointsArrows[11] 0 LinesPointsArrows[12] 0 LinesPointsArrows[13] 0 LinesPointsArrows[14] 0 LinesPointsArrows[15] 0 LinesPointsArrows[16] 0 LinesPointsArrows[17] 0 LinesPointsArrows[18] 0 LinesPointsArrows[19] 0 LinesPointsArrows[20] 0 StartArrowFrom[1] 0 StartArrowFrom[2] 0 StartArrowFrom[3] 0 StartArrowFrom[4] 0 StartArrowFrom[5] 0 StartArrowFrom[6] 0 StartArrowFrom[7] 0 StartArrowFrom[8] 0 StartArrowFrom[9] 0 StartArrowFrom[10] 0 StartArrowFrom[11] 0 StartArrowFrom[12] 0 StartArrowFrom[13] 0 StartArrowFrom[14] 0 StartArrowFrom[15] 0 StartArrowFrom[16] 0 StartArrowFrom[17] 0 StartArrowFrom[18] 0 StartArrowFrom[19] 0 StartArrowFrom[20] 0 BorVorI[1] 2 BorVorI[2] 1 BorVorI[3] 1 BorVorI[4] 1 BorVorI[5] 1 BorVorI[6] 1 BorVorI[7] 1 BorVorI[8] 1 BorVorI[9] 1 BorVorI[10] 1 BorVorI[11] 1 BorVorI[12] 1 BorVorI[13] 1 BorVorI[14] 1 BorVorI[15] 1 BorVorI[16] 1 BorVorI[17] 1 BorVorI[18] 1 BorVorI[19] 1 BorVorI[20] 1 AutoScalePercent 10 BackgroundColor 8388608 AutoScale 1 TimeScale 1 ShowTraceListbox 1 AutoSquare 0 Left0 0.18041620001941563 Right0 0.18047622001941563 Top0 2 Bottom0 0 GridX0 6.0000000000004491e-006 GridY0 0.20000000000000001 LeftAuto0 0.18041620001941563 RightAuto0 0.18047622001941563 TopAuto0 2 BottomAuto0 0 GridAutoX0 6.0000000000004491e-006 GridAutoY0 0.20000000000000001 Left1 0 Right1 0.18047622001941563 Top1 2 Bottom1 0 GridX1 6.0000000000004491e-006 GridY1 0.20000000000000001 LeftAuto1 0 RightAuto1 0.18047622001941563 TopAuto1 2 BottomAuto1 0 GridAutoX1 6.0000000000004491e-006 GridAutoY1 0.20000000000000001 ScaleColor0 65535 ScaleColor1 16711935 Grid0 1 Axis0 1 Scale0 1 Grid1 1 Axis1 1 Scale1 1 LogXScale0 1 LogXScale1 1 Polar0 0 Polar1 0 PolarSVM0 0 PolarSVM1 0 PostscriptSimple0 0 PostscriptSimple1 0 PolarGrid0 15 PolarGrid1 15 PolarVdc0 300 PolarVdc1 300 TraceSymbol[1]  CSI_End_TraceSymbol[1] TraceSymbol[2]  CSI_End_TraceSymbol[2] TraceSymbol[3]  CSI_End_TraceSymbol[3] TraceSymbol[4]  CSI_End_TraceSymbol[4] TraceSymbol[5]  CSI_End_TraceSymbol[5] TraceSymbol[6]  CSI_End_TraceSymbol[6] TraceSymbol[7]  CSI_End_TraceSymbol[7] TraceSymbol[8]  CSI_End_TraceSymbol[8] TraceSymbol[9]  CSI_End_TraceSymbol[9] TraceSymbol[10]  CSI_End_TraceSymbol[10] TraceSymbol[11]  CSI_End_TraceSymbol[11] TraceSymbol[12]  CSI_End_TraceSymbol[12] TraceSymbol[13]  CSI_End_TraceSymbol[13] TraceSymbol[14]  CSI_End_TraceSymbol[14] TraceSymbol[15]  CSI_End_TraceSymbol[15] TraceSymbol[16]  CSI_End_TraceSymbol[16] TraceSymbol[17]  CSI_End_TraceSymbol[17] TraceSymbol[18]  CSI_End_TraceSymbol[18] TraceSymbol[19]  CSI_End_TraceSymbol[19] TraceSymbol[20]  CSI_End_TraceSymbol[20] Label[1]      Trace[1] : Not connected CSI_End_Label[1] Label[2]  CSI_End_Label[2] Label[3]  CSI_End_Label[3] Label[4]  CSI_End_Label[4] Label[5]  CSI_End_Label[5] Label[6]  CSI_End_Label[6] Label[7]  CSI_End_Label[7] Label[8]  CSI_End_Label[8] Label[9]  CSI_End_Label[9] Label[10]  CSI_End_Label[10] Label[11]  CSI_End_Label[11] Label[12]  CSI_End_Label[12] Label[13]  CSI_End_Label[13] Label[14]  CSI_End_Label[14] Label[15]  CSI_End_Label[15] Label[16]  CSI_End_Label[16] Label[17]  CSI_End_Label[17] Label[18]  CSI_End_Label[18] Label[19]  CSI_End_Label[19] Label[20]  CSI_End_Label[20] CurrentSensor[1] L1 CSI_End_CurrentSensor[1] CurrentSensor[2]  CSI_End_CurrentSensor[2] CurrentSensor[3]  CSI_End_CurrentSensor[3] CurrentSensor[4]  CSI_End_CurrentSensor[4] CurrentSensor[5]  CSI_End_CurrentSensor[5] CurrentSensor[6]  CSI_End_CurrentSensor[6] CurrentSensor[7]  CSI_End_CurrentSensor[7] CurrentSensor[8]  CSI_End_CurrentSensor[8] CurrentSensor[9]  CSI_End_CurrentSensor[9] CurrentSensor[10]  CSI_End_CurrentSensor[10] CurrentSensor[11]  CSI_End_CurrentSensor[11] CurrentSensor[12]  CSI_End_CurrentSensor[12] CurrentSensor[13]  CSI_End_CurrentSensor[13] CurrentSensor[14]  CSI_End_CurrentSensor[14] CurrentSensor[15]  CSI_End_CurrentSensor[15] CurrentSensor[16]  CSI_End_CurrentSensor[16] CurrentSensor[17]  CSI_End_CurrentSensor[17] CurrentSensor[18]  CSI_End_CurrentSensor[18] CurrentSensor[19]  CSI_End_CurrentSensor[19] CurrentSensor[20]  CSI_End_CurrentSensor[20] ViewHarmonic 1 AmplitudeRMS 0 DFTMethod 1 ViewLimit 0 NumberOfHarmonics 100 BasicHarmonic 50 FundamentalHarmonicNo 1 FundamentalHarmonic 0 DFTPF  CSI_End_DFTPF DFTIP  CSI_End_DFTIP FileNameTxt  CSI_End_FileNameTxt TitleNameTxt  CSI_End_TitleNameTxt ColorTraces 0
+Name SCOPE4 AantalIngangen 1 cc[1] 65535 cc[2] 255 cc[3] 16776960 cc[4] 65280 cc[5] 16711935 cc[6] 16777215 cc[7] 16711680 cc[8] 12632256 cc[9] 32896 cc[10] 128 cc[11] 8421376 cc[12] 32768 cc[13] 8388736 cc[14] 8421504 cc[15] 0 cc[16] 8388608 cc[17] 65535 cc[18] 255 cc[19] 16776960 cc[20] 65280 TraceScale[1] 0 TraceScale[2] 0 TraceScale[3] 0 TraceScale[4] 0 TraceScale[5] 0 TraceScale[6] 0 TraceScale[7] 0 TraceScale[8] 0 TraceScale[9] 0 TraceScale[10] 0 TraceScale[11] 0 TraceScale[12] 0 TraceScale[13] 0 TraceScale[14] 0 TraceScale[15] 0 TraceScale[16] 0 TraceScale[17] 0 TraceScale[18] 0 TraceScale[19] 0 TraceScale[20] 0 LinesPointsArrows[1] 0 LinesPointsArrows[2] 0 LinesPointsArrows[3] 0 LinesPointsArrows[4] 0 LinesPointsArrows[5] 0 LinesPointsArrows[6] 0 LinesPointsArrows[7] 0 LinesPointsArrows[8] 0 LinesPointsArrows[9] 0 LinesPointsArrows[10] 0 LinesPointsArrows[11] 0 LinesPointsArrows[12] 0 LinesPointsArrows[13] 0 LinesPointsArrows[14] 0 LinesPointsArrows[15] 0 LinesPointsArrows[16] 0 LinesPointsArrows[17] 0 LinesPointsArrows[18] 0 LinesPointsArrows[19] 0 LinesPointsArrows[20] 0 StartArrowFrom[1] 0 StartArrowFrom[2] 0 StartArrowFrom[3] 0 StartArrowFrom[4] 0 StartArrowFrom[5] 0 StartArrowFrom[6] 0 StartArrowFrom[7] 0 StartArrowFrom[8] 0 StartArrowFrom[9] 0 StartArrowFrom[10] 0 StartArrowFrom[11] 0 StartArrowFrom[12] 0 StartArrowFrom[13] 0 StartArrowFrom[14] 0 StartArrowFrom[15] 0 StartArrowFrom[16] 0 StartArrowFrom[17] 0 StartArrowFrom[18] 0 StartArrowFrom[19] 0 StartArrowFrom[20] 0 BorVorI[1] 2 BorVorI[2] 1 BorVorI[3] 1 BorVorI[4] 1 BorVorI[5] 1 BorVorI[6] 1 BorVorI[7] 1 BorVorI[8] 1 BorVorI[9] 1 BorVorI[10] 1 BorVorI[11] 1 BorVorI[12] 1 BorVorI[13] 1 BorVorI[14] 1 BorVorI[15] 1 BorVorI[16] 1 BorVorI[17] 1 BorVorI[18] 1 BorVorI[19] 1 BorVorI[20] 1 AutoScalePercent 10 BackgroundColor 8388608 AutoScale 1 TimeScale 1 ShowTraceListbox 1 AutoSquare 0 Left0 0.18041620001941563 Right0 0.18047622001941563 Top0 0.79999999999999982 Bottom0 0 GridX0 6.0000000000004491e-006 GridY0 0.050000000000000003 LeftAuto0 0.18041620001941563 RightAuto0 0.18047622001941563 TopAuto0 0.79999999999999982 BottomAuto0 0 GridAutoX0 6.0000000000004491e-006 GridAutoY0 0.050000000000000003 Left1 0 Right1 0.18047622001941563 Top1 2 Bottom1 0 GridX1 6.0000000000004491e-006 GridY1 0.20000000000000001 LeftAuto1 0 RightAuto1 0.18047622001941563 TopAuto1 2 BottomAuto1 0 GridAutoX1 6.0000000000004491e-006 GridAutoY1 0.20000000000000001 ScaleColor0 65535 ScaleColor1 16711935 Grid0 1 Axis0 1 Scale0 1 Grid1 1 Axis1 1 Scale1 1 LogXScale0 1 LogXScale1 1 Polar0 0 Polar1 0 PolarSVM0 0 PolarSVM1 0 PostscriptSimple0 0 PostscriptSimple1 0 PolarGrid0 15 PolarGrid1 15 PolarVdc0 300 PolarVdc1 300 TraceSymbol[1]  CSI_End_TraceSymbol[1] TraceSymbol[2]  CSI_End_TraceSymbol[2] TraceSymbol[3]  CSI_End_TraceSymbol[3] TraceSymbol[4]  CSI_End_TraceSymbol[4] TraceSymbol[5]  CSI_End_TraceSymbol[5] TraceSymbol[6]  CSI_End_TraceSymbol[6] TraceSymbol[7]  CSI_End_TraceSymbol[7] TraceSymbol[8]  CSI_End_TraceSymbol[8] TraceSymbol[9]  CSI_End_TraceSymbol[9] TraceSymbol[10]  CSI_End_TraceSymbol[10] TraceSymbol[11]  CSI_End_TraceSymbol[11] TraceSymbol[12]  CSI_End_TraceSymbol[12] TraceSymbol[13]  CSI_End_TraceSymbol[13] TraceSymbol[14]  CSI_End_TraceSymbol[14] TraceSymbol[15]  CSI_End_TraceSymbol[15] TraceSymbol[16]  CSI_End_TraceSymbol[16] TraceSymbol[17]  CSI_End_TraceSymbol[17] TraceSymbol[18]  CSI_End_TraceSymbol[18] TraceSymbol[19]  CSI_End_TraceSymbol[19] TraceSymbol[20]  CSI_End_TraceSymbol[20] Label[1]      Trace[1] : Not connected CSI_End_Label[1] Label[2]  CSI_End_Label[2] Label[3]  CSI_End_Label[3] Label[4]  CSI_End_Label[4] Label[5]  CSI_End_Label[5] Label[6]  CSI_End_Label[6] Label[7]  CSI_End_Label[7] Label[8]  CSI_End_Label[8] Label[9]  CSI_End_Label[9] Label[10]  CSI_End_Label[10] Label[11]  CSI_End_Label[11] Label[12]  CSI_End_Label[12] Label[13]  CSI_End_Label[13] Label[14]  CSI_End_Label[14] Label[15]  CSI_End_Label[15] Label[16]  CSI_End_Label[16] Label[17]  CSI_End_Label[17] Label[18]  CSI_End_Label[18] Label[19]  CSI_End_Label[19] Label[20]  CSI_End_Label[20] CurrentSensor[1] L2 CSI_End_CurrentSensor[1] CurrentSensor[2]  CSI_End_CurrentSensor[2] CurrentSensor[3]  CSI_End_CurrentSensor[3] CurrentSensor[4]  CSI_End_CurrentSensor[4] CurrentSensor[5]  CSI_End_CurrentSensor[5] CurrentSensor[6]  CSI_End_CurrentSensor[6] CurrentSensor[7]  CSI_End_CurrentSensor[7] CurrentSensor[8]  CSI_End_CurrentSensor[8] CurrentSensor[9]  CSI_End_CurrentSensor[9] CurrentSensor[10]  CSI_End_CurrentSensor[10] CurrentSensor[11]  CSI_End_CurrentSensor[11] CurrentSensor[12]  CSI_End_CurrentSensor[12] CurrentSensor[13]  CSI_End_CurrentSensor[13] CurrentSensor[14]  CSI_End_CurrentSensor[14] CurrentSensor[15]  CSI_End_CurrentSensor[15] CurrentSensor[16]  CSI_End_CurrentSensor[16] CurrentSensor[17]  CSI_End_CurrentSensor[17] CurrentSensor[18]  CSI_End_CurrentSensor[18] CurrentSensor[19]  CSI_End_CurrentSensor[19] CurrentSensor[20]  CSI_End_CurrentSensor[20] ViewHarmonic 1 AmplitudeRMS 0 DFTMethod 1 ViewLimit 0 NumberOfHarmonics 100 BasicHarmonic 50 FundamentalHarmonicNo 1 FundamentalHarmonic 0 DFTPF  CSI_End_DFTPF DFTIP  CSI_End_DFTIP FileNameTxt  CSI_End_FileNameTxt TitleNameTxt  CSI_End_TitleNameTxt ColorTraces 0
+Name SCOPE1 AantalIngangen 1 cc[1] 65535 cc[2] 255 cc[3] 16776960 cc[4] 65280 cc[5] 16711935 cc[6] 16777215 cc[7] 16711680 cc[8] 12632256 cc[9] 32896 cc[10] 128 cc[11] 8421376 cc[12] 32768 cc[13] 8388736 cc[14] 8421504 cc[15] 0 cc[16] 8388608 cc[17] 65535 cc[18] 255 cc[19] 16776960 cc[20] 65280 TraceScale[1] 0 TraceScale[2] 0 TraceScale[3] 0 TraceScale[4] 0 TraceScale[5] 0 TraceScale[6] 0 TraceScale[7] 0 TraceScale[8] 0 TraceScale[9] 0 TraceScale[10] 0 TraceScale[11] 0 TraceScale[12] 0 TraceScale[13] 0 TraceScale[14] 0 TraceScale[15] 0 TraceScale[16] 0 TraceScale[17] 0 TraceScale[18] 0 TraceScale[19] 0 TraceScale[20] 0 LinesPointsArrows[1] 0 LinesPointsArrows[2] 0 LinesPointsArrows[3] 0 LinesPointsArrows[4] 0 LinesPointsArrows[5] 0 LinesPointsArrows[6] 0 LinesPointsArrows[7] 0 LinesPointsArrows[8] 0 LinesPointsArrows[9] 0 LinesPointsArrows[10] 0 LinesPointsArrows[11] 0 LinesPointsArrows[12] 0 LinesPointsArrows[13] 0 LinesPointsArrows[14] 0 LinesPointsArrows[15] 0 LinesPointsArrows[16] 0 LinesPointsArrows[17] 0 LinesPointsArrows[18] 0 LinesPointsArrows[19] 0 LinesPointsArrows[20] 0 StartArrowFrom[1] 0 StartArrowFrom[2] 0 StartArrowFrom[3] 0 StartArrowFrom[4] 0 StartArrowFrom[5] 0 StartArrowFrom[6] 0 StartArrowFrom[7] 0 StartArrowFrom[8] 0 StartArrowFrom[9] 0 StartArrowFrom[10] 0 StartArrowFrom[11] 0 StartArrowFrom[12] 0 StartArrowFrom[13] 0 StartArrowFrom[14] 0 StartArrowFrom[15] 0 StartArrowFrom[16] 0 StartArrowFrom[17] 0 StartArrowFrom[18] 0 StartArrowFrom[19] 0 StartArrowFrom[20] 0 BorVorI[1] 0 BorVorI[2] 1 BorVorI[3] 1 BorVorI[4] 1 BorVorI[5] 1 BorVorI[6] 1 BorVorI[7] 1 BorVorI[8] 1 BorVorI[9] 1 BorVorI[10] 1 BorVorI[11] 1 BorVorI[12] 1 BorVorI[13] 1 BorVorI[14] 1 BorVorI[15] 1 BorVorI[16] 1 BorVorI[17] 1 BorVorI[18] 1 BorVorI[19] 1 BorVorI[20] 1 AutoScalePercent 10 BackgroundColor 8388608 AutoScale 1 TimeScale 1 ShowTraceListbox 1 AutoSquare 0 Left0 0.18041620001941563 Right0 0.18047622001941563 Top0 20.000000000000004 Bottom0 0 GridX0 6.0000000000004491e-006 GridY0 5 LeftAuto0 0.18041620001941563 RightAuto0 0.18047622001941563 TopAuto0 20.000000000000004 BottomAuto0 0 GridAutoX0 5.0000000000000004e-006 GridAutoY0 2 Left1 0 Right1 0.18047622001941563 Top1 2 Bottom1 0 GridX1 6.0000000000004491e-006 GridY1 5 LeftAuto1 0 RightAuto1 0.18047622001941563 TopAuto1 2 BottomAuto1 0 GridAutoX1 0.010000000000000002 GridAutoY1 0.20000000000000001 ScaleColor0 65535 ScaleColor1 16711935 Grid0 1 Axis0 1 Scale0 1 Grid1 1 Axis1 1 Scale1 1 LogXScale0 1 LogXScale1 1 Polar0 0 Polar1 0 PolarSVM0 0 PolarSVM1 0 PostscriptSimple0 0 PostscriptSimple1 0 PolarGrid0 15 PolarGrid1 15 PolarVdc0 300 PolarVdc1 300 TraceSymbol[1]  CSI_End_TraceSymbol[1] TraceSymbol[2]  CSI_End_TraceSymbol[2] TraceSymbol[3]  CSI_End_TraceSymbol[3] TraceSymbol[4]  CSI_End_TraceSymbol[4] TraceSymbol[5]  CSI_End_TraceSymbol[5] TraceSymbol[6]  CSI_End_TraceSymbol[6] TraceSymbol[7]  CSI_End_TraceSymbol[7] TraceSymbol[8]  CSI_End_TraceSymbol[8] TraceSymbol[9]  CSI_End_TraceSymbol[9] TraceSymbol[10]  CSI_End_TraceSymbol[10] TraceSymbol[11]  CSI_End_TraceSymbol[11] TraceSymbol[12]  CSI_End_TraceSymbol[12] TraceSymbol[13]  CSI_End_TraceSymbol[13] TraceSymbol[14]  CSI_End_TraceSymbol[14] TraceSymbol[15]  CSI_End_TraceSymbol[15] TraceSymbol[16]  CSI_End_TraceSymbol[16] TraceSymbol[17]  CSI_End_TraceSymbol[17] TraceSymbol[18]  CSI_End_TraceSymbol[18] TraceSymbol[19]  CSI_End_TraceSymbol[19] TraceSymbol[20]  CSI_End_TraceSymbol[20] Label[1] _INTERNALNODE_1 CSI_End_Label[1] Label[2]  CSI_End_Label[2] Label[3]  CSI_End_Label[3] Label[4]  CSI_End_Label[4] Label[5]  CSI_End_Label[5] Label[6]  CSI_End_Label[6] Label[7]  CSI_End_Label[7] Label[8]  CSI_End_Label[8] Label[9]  CSI_End_Label[9] Label[10]  CSI_End_Label[10] Label[11]  CSI_End_Label[11] Label[12]  CSI_End_Label[12] Label[13]  CSI_End_Label[13] Label[14]  CSI_End_Label[14] Label[15]  CSI_End_Label[15] Label[16]  CSI_End_Label[16] Label[17]  CSI_End_Label[17] Label[18]  CSI_End_Label[18] Label[19]  CSI_End_Label[19] Label[20]  CSI_End_Label[20] CurrentSensor[1]  CSI_End_CurrentSensor[1] CurrentSensor[2]  CSI_End_CurrentSensor[2] CurrentSensor[3]  CSI_End_CurrentSensor[3] CurrentSensor[4]  CSI_End_CurrentSensor[4] CurrentSensor[5]  CSI_End_CurrentSensor[5] CurrentSensor[6]  CSI_End_CurrentSensor[6] CurrentSensor[7]  CSI_End_CurrentSensor[7] CurrentSensor[8]  CSI_End_CurrentSensor[8] CurrentSensor[9]  CSI_End_CurrentSensor[9] CurrentSensor[10]  CSI_End_CurrentSensor[10] CurrentSensor[11]  CSI_End_CurrentSensor[11] CurrentSensor[12]  CSI_End_CurrentSensor[12] CurrentSensor[13]  CSI_End_CurrentSensor[13] CurrentSensor[14]  CSI_End_CurrentSensor[14] CurrentSensor[15]  CSI_End_CurrentSensor[15] CurrentSensor[16]  CSI_End_CurrentSensor[16] CurrentSensor[17]  CSI_End_CurrentSensor[17] CurrentSensor[18]  CSI_End_CurrentSensor[18] CurrentSensor[19]  CSI_End_CurrentSensor[19] CurrentSensor[20]  CSI_End_CurrentSensor[20] ViewHarmonic 1 AmplitudeRMS 0 DFTMethod 1 ViewLimit 0 NumberOfHarmonics 100 BasicHarmonic 50 FundamentalHarmonicNo 1 FundamentalHarmonic 0 DFTPF  CSI_End_DFTPF DFTIP  CSI_End_DFTIP FileNameTxt  CSI_End_FileNameTxt TitleNameTxt  CSI_End_TitleNameTxt ColorTraces 0
+Name SCOPE3 AantalIngangen 1 cc[1] 65535 cc[2] 255 cc[3] 16776960 cc[4] 65280 cc[5] 16711935 cc[6] 16777215 cc[7] 16711680 cc[8] 12632256 cc[9] 32896 cc[10] 128 cc[11] 8421376 cc[12] 32768 cc[13] 8388736 cc[14] 8421504 cc[15] 0 cc[16] 8388608 cc[17] 65535 cc[18] 255 cc[19] 16776960 cc[20] 65280 TraceScale[1] 0 TraceScale[2] 0 TraceScale[3] 0 TraceScale[4] 0 TraceScale[5] 0 TraceScale[6] 0 TraceScale[7] 0 TraceScale[8] 0 TraceScale[9] 0 TraceScale[10] 0 TraceScale[11] 0 TraceScale[12] 0 TraceScale[13] 0 TraceScale[14] 0 TraceScale[15] 0 TraceScale[16] 0 TraceScale[17] 0 TraceScale[18] 0 TraceScale[19] 0 TraceScale[20] 0 LinesPointsArrows[1] 0 LinesPointsArrows[2] 0 LinesPointsArrows[3] 0 LinesPointsArrows[4] 0 LinesPointsArrows[5] 0 LinesPointsArrows[6] 0 LinesPointsArrows[7] 0 LinesPointsArrows[8] 0 LinesPointsArrows[9] 0 LinesPointsArrows[10] 0 LinesPointsArrows[11] 0 LinesPointsArrows[12] 0 LinesPointsArrows[13] 0 LinesPointsArrows[14] 0 LinesPointsArrows[15] 0 LinesPointsArrows[16] 0 LinesPointsArrows[17] 0 LinesPointsArrows[18] 0 LinesPointsArrows[19] 0 LinesPointsArrows[20] 0 StartArrowFrom[1] 0 StartArrowFrom[2] 0 StartArrowFrom[3] 0 StartArrowFrom[4] 0 StartArrowFrom[5] 0 StartArrowFrom[6] 0 StartArrowFrom[7] 0 StartArrowFrom[8] 0 StartArrowFrom[9] 0 StartArrowFrom[10] 0 StartArrowFrom[11] 0 StartArrowFrom[12] 0 StartArrowFrom[13] 0 StartArrowFrom[14] 0 StartArrowFrom[15] 0 StartArrowFrom[16] 0 StartArrowFrom[17] 0 StartArrowFrom[18] 0 StartArrowFrom[19] 0 StartArrowFrom[20] 0 BorVorI[1] 2 BorVorI[2] 1 BorVorI[3] 1 BorVorI[4] 1 BorVorI[5] 1 BorVorI[6] 1 BorVorI[7] 1 BorVorI[8] 1 BorVorI[9] 1 BorVorI[10] 1 BorVorI[11] 1 BorVorI[12] 1 BorVorI[13] 1 BorVorI[14] 1 BorVorI[15] 1 BorVorI[16] 1 BorVorI[17] 1 BorVorI[18] 1 BorVorI[19] 1 BorVorI[20] 1 AutoScalePercent 10 BackgroundColor 8388608 AutoScale 1 TimeScale 1 ShowTraceListbox 1 AutoSquare 0 Left0 0.18041620001941563 Right0 0.18047622001941563 Top0 0.49999999999999989 Bottom0 -0.39999999999999991 GridX0 6.0000000000004491e-006 GridY0 5 LeftAuto0 0.18041620001941563 RightAuto0 0.18047622001941563 TopAuto0 0.49999999999999989 BottomAuto0 -0.39999999999999991 GridAutoX0 5.0000000000000004e-006 GridAutoY0 0.050000000000000003 Left1 0 Right1 0.18047622001941563 Top1 2 Bottom1 0 GridX1 6.0000000000004491e-006 GridY1 5 LeftAuto1 0 RightAuto1 0.18047622001941563 TopAuto1 2 BottomAuto1 0 GridAutoX1 0.010000000000000002 GridAutoY1 0.20000000000000001 ScaleColor0 65535 ScaleColor1 16711935 Grid0 1 Axis0 1 Scale0 1 Grid1 1 Axis1 1 Scale1 1 LogXScale0 1 LogXScale1 1 Polar0 0 Polar1 0 PolarSVM0 0 PolarSVM1 0 PostscriptSimple0 0 PostscriptSimple1 0 PolarGrid0 15 PolarGrid1 15 PolarVdc0 300 PolarVdc1 300 TraceSymbol[1]  CSI_End_TraceSymbol[1] TraceSymbol[2]  CSI_End_TraceSymbol[2] TraceSymbol[3]  CSI_End_TraceSymbol[3] TraceSymbol[4]  CSI_End_TraceSymbol[4] TraceSymbol[5]  CSI_End_TraceSymbol[5] TraceSymbol[6]  CSI_End_TraceSymbol[6] TraceSymbol[7]  CSI_End_TraceSymbol[7] TraceSymbol[8]  CSI_End_TraceSymbol[8] TraceSymbol[9]  CSI_End_TraceSymbol[9] TraceSymbol[10]  CSI_End_TraceSymbol[10] TraceSymbol[11]  CSI_End_TraceSymbol[11] TraceSymbol[12]  CSI_End_TraceSymbol[12] TraceSymbol[13]  CSI_End_TraceSymbol[13] TraceSymbol[14]  CSI_End_TraceSymbol[14] TraceSymbol[15]  CSI_End_TraceSymbol[15] TraceSymbol[16]  CSI_End_TraceSymbol[16] TraceSymbol[17]  CSI_End_TraceSymbol[17] TraceSymbol[18]  CSI_End_TraceSymbol[18] TraceSymbol[19]  CSI_End_TraceSymbol[19] TraceSymbol[20]  CSI_End_TraceSymbol[20] Label[1]      Trace[1] : Not connected CSI_End_Label[1] Label[2]  CSI_End_Label[2] Label[3]  CSI_End_Label[3] Label[4]  CSI_End_Label[4] Label[5]  CSI_End_Label[5] Label[6]  CSI_End_Label[6] Label[7]  CSI_End_Label[7] Label[8]  CSI_End_Label[8] Label[9]  CSI_End_Label[9] Label[10]  CSI_End_Label[10] Label[11]  CSI_End_Label[11] Label[12]  CSI_End_Label[12] Label[13]  CSI_End_Label[13] Label[14]  CSI_End_Label[14] Label[15]  CSI_End_Label[15] Label[16]  CSI_End_Label[16] Label[17]  CSI_End_Label[17] Label[18]  CSI_End_Label[18] Label[19]  CSI_End_Label[19] Label[20]  CSI_End_Label[20] CurrentSensor[1] C2 CSI_End_CurrentSensor[1] CurrentSensor[2]  CSI_End_CurrentSensor[2] CurrentSensor[3]  CSI_End_CurrentSensor[3] CurrentSensor[4]  CSI_End_CurrentSensor[4] CurrentSensor[5]  CSI_End_CurrentSensor[5] CurrentSensor[6]  CSI_End_CurrentSensor[6] CurrentSensor[7]  CSI_End_CurrentSensor[7] CurrentSensor[8]  CSI_End_CurrentSensor[8] CurrentSensor[9]  CSI_End_CurrentSensor[9] CurrentSensor[10]  CSI_End_CurrentSensor[10] CurrentSensor[11]  CSI_End_CurrentSensor[11] CurrentSensor[12]  CSI_End_CurrentSensor[12] CurrentSensor[13]  CSI_End_CurrentSensor[13] CurrentSensor[14]  CSI_End_CurrentSensor[14] CurrentSensor[15]  CSI_End_CurrentSensor[15] CurrentSensor[16]  CSI_End_CurrentSensor[16] CurrentSensor[17]  CSI_End_CurrentSensor[17] CurrentSensor[18]  CSI_End_CurrentSensor[18] CurrentSensor[19]  CSI_End_CurrentSensor[19] CurrentSensor[20]  CSI_End_CurrentSensor[20] ViewHarmonic 1 AmplitudeRMS 0 DFTMethod 1 ViewLimit 0 NumberOfHarmonics 100 BasicHarmonic 50 FundamentalHarmonicNo 1 FundamentalHarmonic 0 DFTPF  CSI_End_DFTPF DFTIP  CSI_End_DFTIP FileNameTxt  CSI_End_FileNameTxt TitleNameTxt  CSI_End_TitleNameTxt ColorTraces 0
+Name SCOPE6 AantalIngangen 1 cc[1] 65535 cc[2] 255 cc[3] 16776960 cc[4] 65280 cc[5] 16711935 cc[6] 16777215 cc[7] 16711680 cc[8] 12632256 cc[9] 32896 cc[10] 128 cc[11] 8421376 cc[12] 32768 cc[13] 8388736 cc[14] 8421504 cc[15] 0 cc[16] 8388608 cc[17] 65535 cc[18] 255 cc[19] 16776960 cc[20] 65280 TraceScale[1] 0 TraceScale[2] 0 TraceScale[3] 0 TraceScale[4] 0 TraceScale[5] 0 TraceScale[6] 0 TraceScale[7] 0 TraceScale[8] 0 TraceScale[9] 0 TraceScale[10] 0 TraceScale[11] 0 TraceScale[12] 0 TraceScale[13] 0 TraceScale[14] 0 TraceScale[15] 0 TraceScale[16] 0 TraceScale[17] 0 TraceScale[18] 0 TraceScale[19] 0 TraceScale[20] 0 LinesPointsArrows[1] 0 LinesPointsArrows[2] 0 LinesPointsArrows[3] 0 LinesPointsArrows[4] 0 LinesPointsArrows[5] 0 LinesPointsArrows[6] 0 LinesPointsArrows[7] 0 LinesPointsArrows[8] 0 LinesPointsArrows[9] 0 LinesPointsArrows[10] 0 LinesPointsArrows[11] 0 LinesPointsArrows[12] 0 LinesPointsArrows[13] 0 LinesPointsArrows[14] 0 LinesPointsArrows[15] 0 LinesPointsArrows[16] 0 LinesPointsArrows[17] 0 LinesPointsArrows[18] 0 LinesPointsArrows[19] 0 LinesPointsArrows[20] 0 StartArrowFrom[1] 0 StartArrowFrom[2] 0 StartArrowFrom[3] 0 StartArrowFrom[4] 0 StartArrowFrom[5] 0 StartArrowFrom[6] 0 StartArrowFrom[7] 0 StartArrowFrom[8] 0 StartArrowFrom[9] 0 StartArrowFrom[10] 0 StartArrowFrom[11] 0 StartArrowFrom[12] 0 StartArrowFrom[13] 0 StartArrowFrom[14] 0 StartArrowFrom[15] 0 StartArrowFrom[16] 0 StartArrowFrom[17] 0 StartArrowFrom[18] 0 StartArrowFrom[19] 0 StartArrowFrom[20] 0 BorVorI[1] 2 BorVorI[2] 1 BorVorI[3] 1 BorVorI[4] 1 BorVorI[5] 1 BorVorI[6] 1 BorVorI[7] 1 BorVorI[8] 1 BorVorI[9] 1 BorVorI[10] 1 BorVorI[11] 1 BorVorI[12] 1 BorVorI[13] 1 BorVorI[14] 1 BorVorI[15] 1 BorVorI[16] 1 BorVorI[17] 1 BorVorI[18] 1 BorVorI[19] 1 BorVorI[20] 1 AutoScalePercent 10 BackgroundColor 8388608 AutoScale 1 TimeScale 1 ShowTraceListbox 1 AutoSquare 0 Left0 0.18041620001941563 Right0 0.18047622001941563 Top0 2 Bottom0 0 GridX0 6.0000000000004491e-006 GridY0 5 LeftAuto0 0.18041620001941563 RightAuto0 0.18047622001941563 TopAuto0 2 BottomAuto0 0 GridAutoX0 5.0000000000000004e-006 GridAutoY0 0.20000000000000001 Left1 0 Right1 0.18047622001941563 Top1 2 Bottom1 0 GridX1 6.0000000000004491e-006 GridY1 5 LeftAuto1 0 RightAuto1 0.18047622001941563 TopAuto1 2 BottomAuto1 0 GridAutoX1 0.010000000000000002 GridAutoY1 0.20000000000000001 ScaleColor0 65535 ScaleColor1 16711935 Grid0 1 Axis0 1 Scale0 1 Grid1 1 Axis1 1 Scale1 1 LogXScale0 1 LogXScale1 1 Polar0 0 Polar1 0 PolarSVM0 0 PolarSVM1 0 PostscriptSimple0 0 PostscriptSimple1 0 PolarGrid0 15 PolarGrid1 15 PolarVdc0 300 PolarVdc1 300 TraceSymbol[1]  CSI_End_TraceSymbol[1] TraceSymbol[2]  CSI_End_TraceSymbol[2] TraceSymbol[3]  CSI_End_TraceSymbol[3] TraceSymbol[4]  CSI_End_TraceSymbol[4] TraceSymbol[5]  CSI_End_TraceSymbol[5] TraceSymbol[6]  CSI_End_TraceSymbol[6] TraceSymbol[7]  CSI_End_TraceSymbol[7] TraceSymbol[8]  CSI_End_TraceSymbol[8] TraceSymbol[9]  CSI_End_TraceSymbol[9] TraceSymbol[10]  CSI_End_TraceSymbol[10] TraceSymbol[11]  CSI_End_TraceSymbol[11] TraceSymbol[12]  CSI_End_TraceSymbol[12] TraceSymbol[13]  CSI_End_TraceSymbol[13] TraceSymbol[14]  CSI_End_TraceSymbol[14] TraceSymbol[15]  CSI_End_TraceSymbol[15] TraceSymbol[16]  CSI_End_TraceSymbol[16] TraceSymbol[17]  CSI_End_TraceSymbol[17] TraceSymbol[18]  CSI_End_TraceSymbol[18] TraceSymbol[19]  CSI_End_TraceSymbol[19] TraceSymbol[20]  CSI_End_TraceSymbol[20] Label[1]      Trace[1] : Not connected CSI_End_Label[1] Label[2]  CSI_End_Label[2] Label[3]  CSI_End_Label[3] Label[4]  CSI_End_Label[4] Label[5]  CSI_End_Label[5] Label[6]  CSI_End_Label[6] Label[7]  CSI_End_Label[7] Label[8]  CSI_End_Label[8] Label[9]  CSI_End_Label[9] Label[10]  CSI_End_Label[10] Label[11]  CSI_End_Label[11] Label[12]  CSI_End_Label[12] Label[13]  CSI_End_Label[13] Label[14]  CSI_End_Label[14] Label[15]  CSI_End_Label[15] Label[16]  CSI_End_Label[16] Label[17]  CSI_End_Label[17] Label[18]  CSI_End_Label[18] Label[19]  CSI_End_Label[19] Label[20]  CSI_End_Label[20] CurrentSensor[1] R CSI_End_CurrentSensor[1] CurrentSensor[2]  CSI_End_CurrentSensor[2] CurrentSensor[3]  CSI_End_CurrentSensor[3] CurrentSensor[4]  CSI_End_CurrentSensor[4] CurrentSensor[5]  CSI_End_CurrentSensor[5] CurrentSensor[6]  CSI_End_CurrentSensor[6] CurrentSensor[7]  CSI_End_CurrentSensor[7] CurrentSensor[8]  CSI_End_CurrentSensor[8] CurrentSensor[9]  CSI_End_CurrentSensor[9] CurrentSensor[10]  CSI_End_CurrentSensor[10] CurrentSensor[11]  CSI_End_CurrentSensor[11] CurrentSensor[12]  CSI_End_CurrentSensor[12] CurrentSensor[13]  CSI_End_CurrentSensor[13] CurrentSensor[14]  CSI_End_CurrentSensor[14] CurrentSensor[15]  CSI_End_CurrentSensor[15] CurrentSensor[16]  CSI_End_CurrentSensor[16] CurrentSensor[17]  CSI_End_CurrentSensor[17] CurrentSensor[18]  CSI_End_CurrentSensor[18] CurrentSensor[19]  CSI_End_CurrentSensor[19] CurrentSensor[20]  CSI_End_CurrentSensor[20] ViewHarmonic 1 AmplitudeRMS 0 DFTMethod 1 ViewLimit 0 NumberOfHarmonics 100 BasicHarmonic 50 FundamentalHarmonicNo 1 FundamentalHarmonic 0 DFTPF  CSI_End_DFTPF DFTIP  CSI_End_DFTIP FileNameTxt  CSI_End_FileNameTxt TitleNameTxt  CSI_End_TitleNameTxt ColorTraces 0
+END
+OPTIONS
+DT 4.0000000000000001e-008
+TSCREEN 6.0000000000000002e-005
+WAITAFTERSCREEN 1
+NMC 3
+SMSG_A 1
+SMSG_DT 9.9999999999999995e-007
+SMSG_FMIN 1000
+SMSG_FMAX 10000
+LINKDIRECT 0
+VARSTEPSIZE 0
+VNTOL 9.9999999999999995e-007
+ABSTOL 9.9999999999999998e-013
+ITL1 1000
+HMAX 0
+HMIN 0
+TOTALNUMBEROFSIMULATIONS 0
+SPICETSTEP 9.9999999999999995e-007
+SPICETSTART 0
+SPICETSTOP 0.001
+SPICETMAX 9.9999999999999995e-007
+SPICEICSELECT 0
+SPICEICFILE  CSI_End_SPICEICFILE
+SPICEOPTIONS  CSI_End_SPICEOPTIONS
+EMBEDIM 1
+EMBEDFUNCTIONAME 1
+EMBEDREMARKVAR 1
+EMBEDTAB 1
+EMBEDGENERAL 1
+EMBEDREMARKCODEBLOCK 1
+EMBEDREMARKLIBBLOCK 1
+EMBEDREMARKVAROPTIMIZED 1
+EMBEDREMARKINT 1
+MAXLEVELECV 50
+MINLEVELECV 0
+MAXLEVELECI 400
+MINLEVELECI 0
+MAXLEVELBD  400
+MINLEVELBD  0
+FILENAMEINCLUDE 0  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 1  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 2  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 3  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 4  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 5  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 6  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 7  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 8  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 9  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 10  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 11  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 12  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 13  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 14  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 15  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 16  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 17  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 18  CSI_End_szFileNameInclude
+FILENAMEINCLUDE 19  CSI_End_szFileNameInclude
+FILENAMEBACKGROUND  CSI_End_szFileNameBackground
+END
+HTMLEXPORT
+HTMLOBJECT 0 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 0 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 1 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 1 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 2 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 2 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 3 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 3 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 4 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 4 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 5 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 5 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 6 0 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+HTMLOBJECT 6 1 bText 0 bScreen 0 bImage 0 bCenter 0 bBold 0 bItalic 0 iFontSize 0 szText    CSI_End_szText szImageFileName    CSI_End_szImageFileName szImageTitle    CSI_End_szImageTitle iImageHeight 100 iImageWidth 100 
+END
+MATLAB
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+END
+ </csi>
+ </caspoc>
+ <tesla/>
+ <immodeler/>
+ <spice/>
+ <geometry/>
+</caspoc>
